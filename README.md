@@ -7,11 +7,11 @@ I believe development is a journey of constant iteration, where growth never tru
 ---
 
 ### **Tech Stack**  
-- **Frontend**: ReactJS, NextJS, TypeScript, Tailwind CSS  
-- **Backend**: Node.js, Express, Laravel
-- **Mobile Development**: Kotlin, Flutter, Dart  
-- **Desktop Applications**: Electron.js, C#  
-- **Other Tools**: Python, GitHub, Jira, Asana, Copilot
+- **Frontend**: ReactJS, Next, TypeScript  
+- **Backend**: Asp.Net, Node.js
+- **Mobile Development**: Kotlin, Flutter  
+- **Desktop Applications**: Electron.js  
+- **Other Tools**: Python, Application Language, Git, Asana, Claude
 
 ---
 
